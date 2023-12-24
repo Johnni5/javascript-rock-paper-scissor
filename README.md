@@ -6,7 +6,7 @@ with colors - yeeah!
 
 but, yes, with colors-
 
-PWA will follow soon!
+PWA App Link: http://tinyurl.com/ksvwccrj
 
 
 
